@@ -1,0 +1,2621 @@
+[
+  {
+    "ID": "143",
+    "ProviderId": "10350",
+    "nameZh": "0北",
+    "gxcode": "001",
+    "ddesc": "金獅湖站－金獅湖站",
+    "departureZh": "",
+    "destinationZh": "和順街口"
+  },
+  {
+    "ID": "142",
+    "ProviderId": "10350",
+    "nameZh": "0南",
+    "gxcode": "000",
+    "ddesc": "金獅湖站－金獅湖站",
+    "departureZh": "",
+    "destinationZh": "鼎山街口"
+  },
+  {
+    "ID": "3",
+    "ProviderId": "10310",
+    "nameZh": "3",
+    "gxcode": "3",
+    "ddesc": "警廣站 －龍勝路口",
+    "departureZh": "警廣站",
+    "destinationZh": "龍勝路口"
+  },
+  {
+    "ID": "31",
+    "ProviderId": "10310",
+    "nameZh": "3繞(17:00－20:30繞文信路)",
+    "gxcode": "31",
+    "ddesc": "警廣站 －龍勝路口",
+    "departureZh": "警廣站",
+    "destinationZh": "美術館"
+  },
+  {
+    "ID": "5",
+    "ProviderId": "10320",
+    "nameZh": "5",
+    "gxcode": "5",
+    "ddesc": "鳳山轉運站(捷運大東站)－關帝廟",
+    "departureZh": "鳳山轉運站(捷運大東站)",
+    "destinationZh": "關帝廟"
+  },
+  {
+    "ID": "6",
+    "ProviderId": "10360",
+    "nameZh": "6",
+    "gxcode": "6",
+    "ddesc": "左營南站－萬金路",
+    "departureZh": "左營南站",
+    "destinationZh": "萬金路"
+  },
+  {
+    "ID": "63",
+    "ProviderId": "10360",
+    "nameZh": "6(星展銀行發車)",
+    "gxcode": "63",
+    "ddesc": "建楠路－左營南站",
+    "departureZh": "",
+    "destinationZh": "左營南站"
+  },
+  {
+    "ID": "61",
+    "ProviderId": "10360",
+    "nameZh": "6區間",
+    "gxcode": "61",
+    "ddesc": "左營南站－楠梓區公所",
+    "departureZh": "左營南站",
+    "destinationZh": "楠梓區公所"
+  },
+  {
+    "ID": "7",
+    "ProviderId": "10360",
+    "nameZh": "7A",
+    "gxcode": "7",
+    "ddesc": "加昌站－高雄師範大學",
+    "departureZh": "加昌站",
+    "destinationZh": "高雄師範大學"
+  },
+  {
+    "ID": "730",
+    "ProviderId": "10360",
+    "nameZh": "7B(區間車)",
+    "gxcode": "730",
+    "ddesc": "加昌站－樹德科技大學",
+    "departureZh": "加昌站",
+    "destinationZh": "樹德科技大學"
+  },
+  {
+    "ID": "11",
+    "ProviderId": "10270",
+    "nameZh": "11",
+    "gxcode": "11",
+    "ddesc": "瑞豐站－鹽埕埔",
+    "departureZh": "瑞豐站",
+    "destinationZh": "鹽埕埔"
+  },
+  {
+    "ID": "12",
+    "ProviderId": "10360",
+    "nameZh": "12A",
+    "gxcode": "121",
+    "ddesc": "小港站－火車站",
+    "departureZh": "小港站",
+    "destinationZh": "林森路口"
+  },
+  {
+    "ID": "123",
+    "ProviderId": "10360",
+    "nameZh": "12B(去程不繞駛飛機路)",
+    "gxcode": "122",
+    "ddesc": "小港站－火車站",
+    "departureZh": "小港站",
+    "destinationZh": "林森路口"
+  },
+  {
+    "ID": "121",
+    "ProviderId": "10360",
+    "nameZh": "12C(延駛經大坪頂)",
+    "gxcode": "123",
+    "ddesc": "小港站－火車站",
+    "departureZh": "小港站",
+    "destinationZh": "林森路口"
+  },
+  {
+    "ID": "15",
+    "ProviderId": "10360",
+    "nameZh": "15",
+    "gxcode": "15",
+    "ddesc": "小港站－前鎮站",
+    "departureZh": "小港站",
+    "destinationZh": "前鎮站"
+  },
+  {
+    "ID": "16",
+    "ProviderId": "10310",
+    "nameZh": "16A(假日去程部分班次延駛高雄靈糧堂)",
+    "gxcode": "16",
+    "ddesc": "警廣站 －高應大",
+    "departureZh": "警廣站",
+    "destinationZh": "鼎金國小"
+  },
+  {
+    "ID": "161",
+    "ProviderId": "10310",
+    "nameZh": "16A繞(1700-2150繞文信路口)",
+    "gxcode": "161",
+    "ddesc": "警廣站 －高應大",
+    "departureZh": "警廣站",
+    "destinationZh": "鼎金國小"
+  },
+  {
+    "ID": "162",
+    "ProviderId": "10310",
+    "nameZh": "16B(假日去程部分班次延駛高雄靈糧堂)",
+    "gxcode": "162",
+    "ddesc": "警廣站 －高應大",
+    "departureZh": "警廣站",
+    "destinationZh": "鼎金國小"
+  },
+  {
+    "ID": "23",
+    "ProviderId": "10320",
+    "nameZh": "23(部分班次延駛文山高中)",
+    "gxcode": "23",
+    "ddesc": "鳳山站－圓照寺",
+    "departureZh": "鳳山站",
+    "destinationZh": "圓照寺"
+  },
+  {
+    "ID": "24",
+    "ProviderId": "10320",
+    "nameZh": "24A",
+    "gxcode": "241",
+    "ddesc": "圓照寺－捷運巨蛋站",
+    "departureZh": "圓照寺",
+    "destinationZh": "新庄仔路"
+  },
+  {
+    "ID": "241",
+    "ProviderId": "10320",
+    "nameZh": "24B",
+    "gxcode": "242",
+    "ddesc": "楠梓站－鹽埕站",
+    "departureZh": "楠梓站",
+    "destinationZh": "七賢路"
+  },
+  {
+    "ID": "25",
+    "ProviderId": "10270",
+    "nameZh": "25",
+    "gxcode": "25",
+    "ddesc": "瑞豐站－歷史博物館",
+    "departureZh": "瑞豐站",
+    "destinationZh": "歷史博物館"
+  },
+  {
+    "ID": "26",
+    "ProviderId": "10270",
+    "nameZh": "26",
+    "gxcode": "26",
+    "ddesc": "瑞豐站－火車站",
+    "departureZh": "瑞豐站",
+    "destinationZh": "林森路口"
+  },
+  {
+    "ID": "28",
+    "ProviderId": "10310",
+    "nameZh": "28",
+    "gxcode": "28",
+    "ddesc": "加昌站－高雄火車站",
+    "departureZh": "加昌站",
+    "destinationZh": "高雄中學"
+  },
+  {
+    "ID": "29",
+    "ProviderId": "10360",
+    "nameZh": "29A",
+    "gxcode": "29",
+    "ddesc": "左營南站－楠梓火車站",
+    "departureZh": "左營南站",
+    "destinationZh": "建楠路"
+  },
+  {
+    "ID": "291",
+    "ProviderId": "10360",
+    "nameZh": "29B(延駛創新路)",
+    "gxcode": "291",
+    "ddesc": "左營南站－楠梓區公所",
+    "departureZh": "左營南站",
+    "destinationZh": "楠梓區公所"
+  },
+  {
+    "ID": "292",
+    "ProviderId": "10360",
+    "nameZh": "29C(星展銀行發車)",
+    "gxcode": "292",
+    "ddesc": "建楠路－左營南站",
+    "departureZh": "",
+    "destinationZh": "左營南站"
+  },
+  {
+    "ID": "30",
+    "ProviderId": "10360",
+    "nameZh": "30",
+    "gxcode": "30",
+    "ddesc": "小港站－長庚醫院",
+    "departureZh": "小港站",
+    "destinationZh": "長庚醫院"
+  },
+  {
+    "ID": "33",
+    "ProviderId": "10350",
+    "nameZh": "33(06:33延駛後備指揮部)",
+    "gxcode": "33",
+    "ddesc": "金獅湖－鹽埕埔",
+    "departureZh": "金獅湖站",
+    "destinationZh": "捷運鹽埕埔站(五福四路)"
+  },
+  {
+    "ID": "36",
+    "ProviderId": "10360",
+    "nameZh": "36",
+    "gxcode": "36",
+    "ddesc": "前鎮站－火車站",
+    "departureZh": "前鎮站",
+    "destinationZh": "林森路口"
+  },
+  {
+    "ID": "37",
+    "ProviderId": "10250",
+    "nameZh": "37",
+    "gxcode": "37",
+    "ddesc": "前鎮站－育英醫專",
+    "departureZh": "前鎮站",
+    "destinationZh": "育英醫專"
+  },
+  {
+    "ID": "371",
+    "ProviderId": "10250",
+    "nameZh": "37(育英發車)",
+    "gxcode": "371",
+    "ddesc": "育英醫專－前鎮站",
+    "departureZh": "前鎮站",
+    "destinationZh": ""
+  },
+  {
+    "ID": "38",
+    "ProviderId": "10360",
+    "nameZh": "38A",
+    "gxcode": "381",
+    "ddesc": "左營南站－榮民總醫院",
+    "departureZh": "左營南站",
+    "destinationZh": "民族路口"
+  },
+  {
+    "ID": "381",
+    "ProviderId": "10360",
+    "nameZh": "38B(去程延駛鼓山三路)",
+    "gxcode": "382",
+    "ddesc": "左營南站－榮民總醫院",
+    "departureZh": "左營南站",
+    "destinationZh": "民族路口"
+  },
+  {
+    "ID": "382",
+    "ProviderId": "10360",
+    "nameZh": "38C(返程延駛鼓山三路)",
+    "gxcode": "383",
+    "ddesc": "左營南站－榮民總醫院",
+    "departureZh": "左營南站",
+    "destinationZh": "民族路口"
+  },
+  {
+    "ID": "383",
+    "ProviderId": "10360",
+    "nameZh": "38D(去返程延駛鼓山三路)",
+    "gxcode": "384",
+    "ddesc": "左營南站－榮民總醫院",
+    "departureZh": "左營南站",
+    "destinationZh": "民族路口"
+  },
+  {
+    "ID": "39",
+    "ProviderId": "10360",
+    "nameZh": "39",
+    "gxcode": "39",
+    "ddesc": "左營南站－榮民總醫院",
+    "departureZh": "左營南站",
+    "destinationZh": "榮總側門"
+  },
+  {
+    "ID": "50",
+    "ProviderId": "10250",
+    "nameZh": "50五福幹線",
+    "gxcode": "50",
+    "ddesc": "建軍站－鼓山輪渡站",
+    "departureZh": "建軍站",
+    "destinationZh": "鼓山輪渡站"
+  },
+  {
+    "ID": "52",
+    "ProviderId": "10250",
+    "nameZh": "52A",
+    "gxcode": "521",
+    "ddesc": "建軍站－火車站",
+    "departureZh": "建軍站",
+    "destinationZh": "林森路口"
+  },
+  {
+    "ID": "521",
+    "ProviderId": "10250",
+    "nameZh": "52B(不延駛市議會)",
+    "gxcode": "522",
+    "ddesc": "建軍站－火車站",
+    "departureZh": "建軍站",
+    "destinationZh": "林森路口"
+  },
+  {
+    "ID": "523",
+    "ProviderId": "10250",
+    "nameZh": "52C(捷運中央公園站－高雄女中)",
+    "gxcode": "523",
+    "ddesc": "高雄火車站(捷運高雄車站)－高雄女中",
+    "departureZh": "",
+    "destinationZh": "高雄女中"
+  },
+  {
+    "ID": "531",
+    "ProviderId": "10270",
+    "nameZh": "53A",
+    "gxcode": "531",
+    "ddesc": "建軍站－本館里",
+    "departureZh": "建軍站",
+    "destinationZh": "本館里"
+  },
+  {
+    "ID": "532",
+    "ProviderId": "10270",
+    "nameZh": "53B",
+    "gxcode": "532",
+    "ddesc": "建軍站-高雄火車站",
+    "departureZh": "建軍站",
+    "destinationZh": "高雄火車站(捷運高雄車站)"
+  },
+  {
+    "ID": "56",
+    "ProviderId": "10360",
+    "nameZh": "56",
+    "gxcode": "56",
+    "ddesc": "高雄火車站(捷運高雄車站)－壽山動物園",
+    "departureZh": "高雄火車站(捷運高雄車站)",
+    "destinationZh": "壽山動物園"
+  },
+  {
+    "ID": "561",
+    "ProviderId": "10360",
+    "nameZh": "56區間",
+    "gxcode": "561",
+    "ddesc": "捷運鹽埕埔站－壽山動物園",
+    "departureZh": "捷運鹽埕埔站",
+    "destinationZh": "壽山動物園"
+  },
+  {
+    "ID": "60",
+    "ProviderId": "10320",
+    "nameZh": "60覺民幹線(06:00－18:00延駛澄清湖)",
+    "gxcode": "60",
+    "ddesc": "捷運鹽埕埔站－夢裡活動中心",
+    "departureZh": "捷運鹽埕埔站",
+    "destinationZh": "夢裡活動中心"
+  },
+  {
+    "ID": "62",
+    "ProviderId": "10250",
+    "nameZh": "62",
+    "gxcode": "62",
+    "ddesc": "小港站－大坪頂",
+    "departureZh": "小港站",
+    "destinationZh": "大坪頂"
+  },
+  {
+    "ID": "69",
+    "ProviderId": "10360",
+    "nameZh": "69A",
+    "gxcode": "691",
+    "ddesc": "小港站－火車站",
+    "departureZh": "小港站",
+    "destinationZh": "火車站"
+  },
+  {
+    "ID": "691",
+    "ProviderId": "10360",
+    "nameZh": "69B(延駛明鳳)",
+    "gxcode": "692",
+    "ddesc": "小港站－火車站",
+    "departureZh": "小港站",
+    "destinationZh": "火車站"
+  },
+  {
+    "ID": "70",
+    "ProviderId": "10360",
+    "nameZh": "70A三多幹線(部分班次延駛澄清湖)",
+    "gxcode": "70",
+    "ddesc": "前鎮站－長庚醫院",
+    "departureZh": "前鎮站",
+    "destinationZh": "長庚復健大樓"
+  },
+  {
+    "ID": "701",
+    "ProviderId": "10360",
+    "nameZh": "70B三多幹線(延駛鎮州路)",
+    "gxcode": "701",
+    "ddesc": "前鎮站－長庚醫院",
+    "departureZh": "前鎮站",
+    "destinationZh": "長庚復健大樓"
+  },
+  {
+    "ID": "702",
+    "ProviderId": "10360",
+    "nameZh": "70C三多幹線(區間)",
+    "gxcode": "702",
+    "ddesc": "棒球場－捷運衛武營站",
+    "departureZh": "棒球場",
+    "destinationZh": "建軍站(捷運衛武營站)"
+  },
+  {
+    "ID": "703",
+    "ProviderId": "10360",
+    "nameZh": "70D三多幹線(延駛仁美)",
+    "gxcode": "703",
+    "ddesc": "前鎮站－鳥松區公所(神農)",
+    "departureZh": "前鎮站",
+    "destinationZh": "鳥松區公所(神農)"
+  },
+  {
+    "ID": "72",
+    "ProviderId": "10350",
+    "nameZh": "72A",
+    "gxcode": "72",
+    "ddesc": "金獅湖站－中正高工",
+    "departureZh": "金獅湖站",
+    "destinationZh": "沱江街口"
+  },
+  {
+    "ID": "721",
+    "ProviderId": "10350",
+    "nameZh": "72B(延駛正勤社區)",
+    "gxcode": "721",
+    "ddesc": "金獅湖站－中正高工",
+    "departureZh": "金獅湖站",
+    "destinationZh": "復興路口"
+  },
+  {
+    "ID": "73",
+    "ProviderId": "10250",
+    "nameZh": "73",
+    "gxcode": "73",
+    "ddesc": "建軍站－左營區公所",
+    "departureZh": "建軍站",
+    "destinationZh": "左營區公所"
+  },
+  {
+    "ID": "76",
+    "ProviderId": "10350",
+    "nameZh": "76",
+    "gxcode": "76",
+    "ddesc": "金獅湖站－歷史博物館",
+    "departureZh": "金獅湖站",
+    "destinationZh": "三山國王廟"
+  },
+  {
+    "ID": "77",
+    "ProviderId": "10350",
+    "nameZh": "77",
+    "gxcode": "77",
+    "ddesc": "金獅湖站－歷史博物館",
+    "departureZh": "金獅湖站",
+    "destinationZh": "三山國王廟"
+  },
+  {
+    "ID": "771",
+    "ProviderId": "10350",
+    "nameZh": "77區間",
+    "gxcode": "771",
+    "ddesc": "金獅湖站－高雄女中",
+    "departureZh": "金獅湖站",
+    "destinationZh": "高雄女中"
+  },
+  {
+    "ID": "81",
+    "ProviderId": "10250",
+    "nameZh": "81",
+    "gxcode": "81",
+    "ddesc": "瑞豐站－育英醫專",
+    "departureZh": "瑞豐站",
+    "destinationZh": "大豐二路"
+  },
+  {
+    "ID": "82",
+    "ProviderId": "10270",
+    "nameZh": "82",
+    "gxcode": "82",
+    "ddesc": "瑞豐站－鹽埕埔",
+    "departureZh": "瑞豐站",
+    "destinationZh": "三山國王廟"
+  },
+  {
+    "ID": "83",
+    "ProviderId": "10270",
+    "nameZh": "83",
+    "gxcode": "83",
+    "ddesc": "瑞豐站－火車站",
+    "departureZh": "瑞豐站",
+    "destinationZh": "中山一路口"
+  },
+  {
+    "ID": "87",
+    "ProviderId": "10320",
+    "nameZh": "87",
+    "gxcode": "87",
+    "ddesc": "鳳山轉運站(捷運大東站)-建軍站",
+    "departureZh": "鳳山轉運站(捷運大東站)",
+    "destinationZh": "建軍站"
+  },
+  {
+    "ID": "122",
+    "ProviderId": "10270",
+    "nameZh": "88建國幹線",
+    "gxcode": "88",
+    "ddesc": "鳳山轉運站(捷運大東站)－鹽埕埔",
+    "departureZh": "鳳山轉運站(捷運大東站)",
+    "destinationZh": "鹽埕埔"
+  },
+  {
+    "ID": "1221",
+    "ProviderId": "10270",
+    "nameZh": "88幹線區間(假日停駛)",
+    "gxcode": "881",
+    "ddesc": "建軍站－鹽埕埔",
+    "departureZh": "建軍站",
+    "destinationZh": "鹽埕埔"
+  },
+  {
+    "ID": "90",
+    "ProviderId": "10310",
+    "nameZh": "90民族幹線",
+    "gxcode": "90",
+    "ddesc": "高鐵左營站－捷運三多商圈站",
+    "departureZh": "高鐵左營站",
+    "destinationZh": "捷運三多商圈站"
+  },
+  {
+    "ID": "92",
+    "ProviderId": "10350",
+    "nameZh": "92自由幹線",
+    "gxcode": "92",
+    "ddesc": "高鐵左營站－火車站",
+    "departureZh": "高鐵左營站",
+    "destinationZh": "中山一路口"
+  },
+  {
+    "ID": "96",
+    "ProviderId": "10330",
+    "nameZh": "96",
+    "gxcode": "96",
+    "ddesc": "義大世界站－義大醫院站",
+    "departureZh": "義大世界站",
+    "destinationZh": "義大醫院站"
+  },
+  {
+    "ID": "97",
+    "ProviderId": "10320",
+    "nameZh": "97",
+    "gxcode": "97",
+    "ddesc": "捷運都會公園站－樹德科大",
+    "departureZh": "捷運都會公園站",
+    "destinationZh": "樹德科大"
+  },
+  {
+    "ID": "98",
+    "ProviderId": "10320",
+    "nameZh": "98",
+    "gxcode": "98",
+    "ddesc": "第一綜合大樓－義大醫院",
+    "departureZh": "第一綜合大樓",
+    "destinationZh": "義大醫院"
+  },
+  {
+    "ID": "99",
+    "ProviderId": "10360",
+    "nameZh": "99",
+    "gxcode": "99",
+    "ddesc": "鹽埕埔站－柴山",
+    "departureZh": "高雄港站路外停車場",
+    "destinationZh": "中山大學行政大樓"
+  },
+  {
+    "ID": "991",
+    "ProviderId": "10360",
+    "nameZh": "99區間",
+    "gxcode": "991",
+    "ddesc": "捷運西子灣站2號出口－西子灣",
+    "departureZh": "",
+    "destinationZh": "西子灣"
+  },
+  {
+    "ID": "100",
+    "ProviderId": "10270",
+    "nameZh": "100",
+    "gxcode": "100",
+    "ddesc": "瑞豐站－火車站",
+    "departureZh": "瑞豐站",
+    "destinationZh": "中山一路口"
+  },
+  {
+    "ID": "206",
+    "ProviderId": "10350",
+    "nameZh": "168環西幹線",
+    "gxcode": "1682",
+    "ddesc": "金獅湖站－金獅湖站",
+    "departureZh": "",
+    "destinationZh": "慈濟靜思堂"
+  },
+  {
+    "ID": "207",
+    "ProviderId": "10350",
+    "nameZh": "168環東幹線",
+    "gxcode": "1681",
+    "ddesc": "金獅湖站－金獅湖站",
+    "departureZh": "",
+    "destinationZh": "捷運凹子底站"
+  },
+  {
+    "ID": "114",
+    "ProviderId": "10360",
+    "nameZh": "205中華幹線",
+    "gxcode": "205",
+    "ddesc": "加昌站－夢時代",
+    "departureZh": "加昌站",
+    "destinationZh": "夢時代"
+  },
+  {
+    "ID": "115",
+    "ProviderId": "10360",
+    "nameZh": "205中華幹線區間",
+    "gxcode": "2051",
+    "ddesc": "加昌站－火車站",
+    "departureZh": "加昌站",
+    "destinationZh": "火車站"
+  },
+  {
+    "ID": "214",
+    "ProviderId": "10360",
+    "nameZh": "214A",
+    "gxcode": "2141",
+    "ddesc": "小港站－歷史博物館",
+    "departureZh": "小港站",
+    "destinationZh": "歷史博物館"
+  },
+  {
+    "ID": "215",
+    "ProviderId": "10360",
+    "nameZh": "214B(前鎮站至鹽埕埔)",
+    "gxcode": "2142",
+    "ddesc": "前鎮站－鹽埕埔",
+    "departureZh": "小港站",
+    "destinationZh": "捷運鹽埕埔站(大仁路)"
+  },
+  {
+    "ID": "2142",
+    "ProviderId": "10360",
+    "nameZh": "214C(夜市改道)",
+    "gxcode": "2143",
+    "ddesc": "小港站－歷史博物館",
+    "departureZh": "小港站",
+    "destinationZh": "歷史博物館"
+  },
+  {
+    "ID": "217",
+    "ProviderId": "10360",
+    "nameZh": "217A新昌幹線",
+    "gxcode": "2171",
+    "ddesc": "加昌站－鳥松區公所",
+    "departureZh": "加昌站",
+    "destinationZh": "鳥松區公所"
+  },
+  {
+    "ID": "2171",
+    "ProviderId": "10360",
+    "nameZh": "217B新昌幹線(返程只駛至海景街)",
+    "gxcode": "2172",
+    "ddesc": "加昌站－鳥松區公所",
+    "departureZh": "海景街(合群社區)",
+    "destinationZh": "鳥松區公所"
+  },
+  {
+    "ID": "2172",
+    "ProviderId": "10360",
+    "nameZh": "217C新昌幹線(海景街發車)",
+    "gxcode": "2173",
+    "ddesc": "海景街(合群社區)－鳥松區公所",
+    "departureZh": "海景街(合群社區)",
+    "destinationZh": "鳥松區公所"
+  },
+  {
+    "ID": "2173",
+    "ProviderId": "10360",
+    "nameZh": "217D新昌幹線(高應大發車)",
+    "gxcode": "2174",
+    "ddesc": "高應大->海景街(合群社區)",
+    "departureZh": "海景街(合群社區)",
+    "destinationZh": "海景街(合群社區)"
+  },
+  {
+    "ID": "2174",
+    "ProviderId": "10360",
+    "nameZh": "217E新昌幹線(大華村發車)",
+    "gxcode": "2175",
+    "ddesc": "大華村->海景街(合群社區)",
+    "departureZh": "海景街(合群社區)",
+    "destinationZh": "鳥松區公所"
+  },
+  {
+    "ID": "218",
+    "ProviderId": "10360",
+    "nameZh": "218A",
+    "gxcode": "2181",
+    "ddesc": "加昌站－火車站",
+    "departureZh": "加昌站",
+    "destinationZh": "林森路口"
+  },
+  {
+    "ID": "2181",
+    "ProviderId": "10360",
+    "nameZh": "218B(延駛合群社區)",
+    "gxcode": "2182",
+    "ddesc": "加昌站－火車站",
+    "departureZh": "加昌站",
+    "destinationZh": "林森路口"
+  },
+  {
+    "ID": "219",
+    "ProviderId": "10360",
+    "nameZh": "219A",
+    "gxcode": "2191",
+    "ddesc": "加昌站－鹽埕埔",
+    "departureZh": "加昌站",
+    "destinationZh": "鹽埕埔"
+  },
+  {
+    "ID": "2192",
+    "ProviderId": "10360",
+    "nameZh": "219B",
+    "gxcode": "2192",
+    "ddesc": "加昌站－鹽埕埔",
+    "departureZh": "加昌站",
+    "destinationZh": "鹽埕埔"
+  },
+  {
+    "ID": "245",
+    "ProviderId": "10360",
+    "nameZh": "245A",
+    "gxcode": "2451",
+    "ddesc": "加昌站－火車站",
+    "departureZh": "加昌站",
+    "destinationZh": "雄中"
+  },
+  {
+    "ID": "2451",
+    "ProviderId": "10360",
+    "nameZh": "245B(延駛高雄大學)",
+    "gxcode": "2452",
+    "ddesc": "加昌站－火車站",
+    "departureZh": "加昌站",
+    "destinationZh": "雄中"
+  },
+  {
+    "ID": "248",
+    "ProviderId": "10250",
+    "nameZh": "248",
+    "gxcode": "248",
+    "ddesc": "建軍站－鼓山輪渡站",
+    "departureZh": "建軍站",
+    "destinationZh": "濱海二路"
+  },
+  {
+    "ID": "2481",
+    "ProviderId": "10250",
+    "nameZh": "248(高雄火車站發車)",
+    "gxcode": "2481",
+    "ddesc": "高雄火車站(捷運高雄車站)－鼓山輪渡站",
+    "departureZh": "建軍站",
+    "destinationZh": "濱海二路"
+  },
+  {
+    "ID": "2482",
+    "ProviderId": "10250",
+    "nameZh": "248(捷運西子灣發車)",
+    "gxcode": "2482",
+    "ddesc": "捷運西子灣站(1號出口)－建軍站總站",
+    "departureZh": "建軍站",
+    "destinationZh": ""
+  },
+  {
+    "ID": "261",
+    "ProviderId": "10330",
+    "nameZh": "261",
+    "gxcode": "261",
+    "ddesc": "義大醫院站－旗山轉運站",
+    "departureZh": "義大醫院站",
+    "destinationZh": "旗山轉運站"
+  },
+  {
+    "ID": "301",
+    "ProviderId": "10310",
+    "nameZh": "301",
+    "gxcode": "301",
+    "ddesc": "加昌站－高雄火車站",
+    "departureZh": "加昌站",
+    "destinationZh": "高雄火車站"
+  },
+  {
+    "ID": "8001",
+    "ProviderId": "10320",
+    "nameZh": "8001",
+    "gxcode": "8001",
+    "ddesc": "大公路－林園站",
+    "departureZh": "大公路",
+    "destinationZh": "林園站"
+  },
+  {
+    "ID": "8005",
+    "ProviderId": "10320",
+    "nameZh": "8005_O",
+    "gxcode": "8005",
+    "ddesc": "鳳山－溪寮",
+    "departureZh": "鳳山站",
+    "destinationZh": "溪寮"
+  },
+  {
+    "ID": "8006",
+    "ProviderId": "10320",
+    "nameZh": "8006",
+    "gxcode": "8006",
+    "ddesc": "鳳山站－大樹",
+    "departureZh": "鳳山站",
+    "destinationZh": "大樹"
+  },
+  {
+    "ID": "8008",
+    "ProviderId": "10320",
+    "nameZh": "8008",
+    "gxcode": "8008",
+    "ddesc": "岡山站－高雄",
+    "departureZh": "岡山站",
+    "destinationZh": "高雄火車站"
+  },
+  {
+    "ID": "8009",
+    "ProviderId": "10320",
+    "nameZh": "8009",
+    "gxcode": "8009",
+    "ddesc": "旗山北站－高雄(經澄清湖)",
+    "departureZh": "旗山北站",
+    "destinationZh": "大公路"
+  },
+  {
+    "ID": "8010",
+    "ProviderId": "10320",
+    "nameZh": "8010",
+    "gxcode": "8010",
+    "ddesc": "高雄－旗山(佛光山)",
+    "departureZh": "大公路",
+    "destinationZh": "旗山北站"
+  },
+  {
+    "ID": "8062",
+    "ProviderId": "10320",
+    "nameZh": "8010(區間車)",
+    "gxcode": "8062",
+    "ddesc": "鳳山站－旗山北站",
+    "departureZh": "鳳山站",
+    "destinationZh": "旗山北站"
+  },
+  {
+    "ID": "8012",
+    "ProviderId": "10320",
+    "nameZh": "8012",
+    "gxcode": "8012",
+    "ddesc": "岡山站－旗山北站",
+    "departureZh": "岡山站",
+    "destinationZh": "旗山北站"
+  },
+  {
+    "ID": "8013",
+    "ProviderId": "10320",
+    "nameZh": "8013",
+    "gxcode": "8013",
+    "ddesc": "岡山站－田寮",
+    "departureZh": "岡山站",
+    "destinationZh": "田寮"
+  },
+  {
+    "ID": "8015",
+    "ProviderId": "10320",
+    "nameZh": "8015",
+    "gxcode": "8015",
+    "ddesc": "岡山區公所－台鐵新左營站",
+    "departureZh": "岡山區公所",
+    "destinationZh": "台鐵新左營站"
+  },
+  {
+    "ID": "8017",
+    "ProviderId": "10320",
+    "nameZh": "8017",
+    "gxcode": "8017",
+    "ddesc": "台鐵新左營站－岡山區公所",
+    "departureZh": "台鐵新左營站",
+    "destinationZh": "岡山區公所"
+  },
+  {
+    "ID": "8018",
+    "ProviderId": "10320",
+    "nameZh": "8018",
+    "gxcode": "8018",
+    "ddesc": "岡山站－南寮",
+    "departureZh": "岡山站",
+    "destinationZh": "南寮"
+  },
+  {
+    "ID": "8019",
+    "ProviderId": "10320",
+    "nameZh": "8019",
+    "gxcode": "8019",
+    "ddesc": "岡山站－塭仔邊",
+    "departureZh": "岡山站",
+    "destinationZh": "塭仔邊"
+  },
+  {
+    "ID": "8020",
+    "ProviderId": "10320",
+    "nameZh": "8020",
+    "gxcode": "8020",
+    "ddesc": "深水－岡山站",
+    "departureZh": "湖子內",
+    "destinationZh": "岡山"
+  },
+  {
+    "ID": "8021",
+    "ProviderId": "10320",
+    "nameZh": "8021",
+    "gxcode": "8021",
+    "ddesc": "鳳山站－彌陀國小",
+    "departureZh": "鳳山站",
+    "destinationZh": "彌陀國小"
+  },
+  {
+    "ID": "8023",
+    "ProviderId": "10320",
+    "nameZh": "8023",
+    "gxcode": "8023",
+    "ddesc": "高雄站－旗山北站",
+    "departureZh": "大公路",
+    "destinationZh": "旗山北站"
+  },
+  {
+    "ID": "8063",
+    "ProviderId": "10320",
+    "nameZh": "8023(區間車)",
+    "gxcode": "8063",
+    "ddesc": "楠梓站－旗山北站",
+    "departureZh": "楠梓站",
+    "destinationZh": "旗山北站"
+  },
+  {
+    "ID": "8025",
+    "ProviderId": "10320",
+    "nameZh": "8025",
+    "gxcode": "8025",
+    "ddesc": "高雄站－六龜站",
+    "departureZh": "六龜站",
+    "destinationZh": "高雄站"
+  },
+  {
+    "ID": "8026",
+    "ProviderId": "10320",
+    "nameZh": "8026",
+    "gxcode": "8026",
+    "ddesc": "旗山轉運站－木梓",
+    "departureZh": "旗山轉運站",
+    "destinationZh": "木梓"
+  },
+  {
+    "ID": "8028",
+    "ProviderId": "10320",
+    "nameZh": "8028",
+    "gxcode": "8028",
+    "ddesc": "高雄站－美濃站",
+    "departureZh": "大公路",
+    "destinationZh": "美濃站"
+  },
+  {
+    "ID": "8029",
+    "ProviderId": "10320",
+    "nameZh": "8029",
+    "gxcode": "8029",
+    "ddesc": "甲仙－桃源",
+    "departureZh": "甲仙站",
+    "destinationZh": "桃源"
+  },
+  {
+    "ID": "8032",
+    "ProviderId": "10320",
+    "nameZh": "8032",
+    "gxcode": "8032",
+    "ddesc": "甲仙站－高雄站",
+    "departureZh": "甲仙站",
+    "destinationZh": "高雄站"
+  },
+  {
+    "ID": "8033",
+    "ProviderId": "10320",
+    "nameZh": "8033",
+    "gxcode": "8033",
+    "ddesc": "六龜站－不老溫泉",
+    "departureZh": "不老溫泉",
+    "destinationZh": "六龜站"
+  },
+  {
+    "ID": "8035",
+    "ProviderId": "10320",
+    "nameZh": "8035",
+    "gxcode": "8035",
+    "ddesc": "旗山轉運站－南化路",
+    "departureZh": "旗山轉運站",
+    "destinationZh": "南化"
+  },
+  {
+    "ID": "8074",
+    "ProviderId": "10320",
+    "nameZh": "8035(區間車)",
+    "gxcode": "8074",
+    "ddesc": "旗山轉運站－內門",
+    "departureZh": "旗山轉運站",
+    "destinationZh": "內門"
+  },
+  {
+    "ID": "8036",
+    "ProviderId": "10320",
+    "nameZh": "8036",
+    "gxcode": "8036",
+    "ddesc": "旗山轉運站－竹峰寺",
+    "departureZh": "旗山轉運站",
+    "destinationZh": "竹峰寺"
+  },
+  {
+    "ID": "8039",
+    "ProviderId": "10320",
+    "nameZh": "8039",
+    "gxcode": "8039",
+    "ddesc": "興達遠洋漁港－台南火車站",
+    "departureZh": "興達遠洋漁港",
+    "destinationZh": "台南火車站"
+  },
+  {
+    "ID": "8040",
+    "ProviderId": "10320",
+    "nameZh": "8040",
+    "gxcode": "8040",
+    "ddesc": "岡山區公所－高雄站",
+    "departureZh": "岡山區公所",
+    "destinationZh": "高雄站"
+  },
+  {
+    "ID": "8069",
+    "ProviderId": "10320",
+    "nameZh": "8041A",
+    "gxcode": "8069",
+    "ddesc": "林園站－自立站",
+    "departureZh": "林園站",
+    "destinationZh": "自立站"
+  },
+  {
+    "ID": "8070",
+    "ProviderId": "10320",
+    "nameZh": "8041B",
+    "gxcode": "8070",
+    "ddesc": "鳳山－岡山區公所",
+    "departureZh": "鳳山",
+    "destinationZh": "岡山區公所"
+  },
+  {
+    "ID": "8041",
+    "ProviderId": "10320",
+    "nameZh": "8041C",
+    "gxcode": "8041",
+    "ddesc": "鳳山站－茄萣站",
+    "departureZh": "鳳山",
+    "destinationZh": "茄萣站"
+  },
+  {
+    "ID": "8043",
+    "ProviderId": "10320",
+    "nameZh": "8043",
+    "gxcode": "8043",
+    "ddesc": "茄萣站－高雄站(南華路)",
+    "departureZh": "茄萣站",
+    "destinationZh": "雄中"
+  },
+  {
+    "ID": "8048",
+    "ProviderId": "10320",
+    "nameZh": "8048",
+    "gxcode": "8048",
+    "ddesc": "捷運都會公園站－逢甲路",
+    "departureZh": "捷運都會公園站",
+    "destinationZh": "逢甲路"
+  },
+  {
+    "ID": "8076",
+    "ProviderId": "10320",
+    "nameZh": "8048(區間車)",
+    "gxcode": "8076",
+    "ddesc": "捷運都會公園站－鳳山站",
+    "departureZh": "捷運都會公園站",
+    "destinationZh": "鳳山站"
+  },
+  {
+    "ID": "8049",
+    "ProviderId": "10320",
+    "nameZh": "8049",
+    "gxcode": "8049",
+    "ddesc": "崗安路－鳳山站",
+    "departureZh": "崗安路",
+    "destinationZh": "鳳山站"
+  },
+  {
+    "ID": "8075",
+    "ProviderId": "10320",
+    "nameZh": "8049(區間車)",
+    "gxcode": "8075",
+    "ddesc": "崗安路－捷運南岡山站",
+    "departureZh": "崗安路",
+    "destinationZh": "捷運南岡山站"
+  },
+  {
+    "ID": "8501",
+    "ProviderId": "10330",
+    "nameZh": "8501(部分班次延駛義守大學)",
+    "gxcode": "8501",
+    "ddesc": "高鐵左營站－義大世界",
+    "departureZh": "高鐵左營站",
+    "destinationZh": "義大世界站"
+  },
+  {
+    "ID": "8507",
+    "ProviderId": "10330",
+    "nameZh": "8501延駛佛光山",
+    "gxcode": "85011",
+    "ddesc": "高鐵左營站－義大世界",
+    "departureZh": "高鐵左營站",
+    "destinationZh": "義大世界站"
+  },
+  {
+    "ID": "8502",
+    "ProviderId": "10330",
+    "nameZh": "8502",
+    "gxcode": "8502",
+    "ddesc": "高雄美術館－義大世界",
+    "departureZh": "高雄美術館",
+    "destinationZh": "義大世界站"
+  },
+  {
+    "ID": "8503",
+    "ProviderId": "10330",
+    "nameZh": "8503",
+    "gxcode": "8503",
+    "ddesc": "高雄市政府－義大世界",
+    "departureZh": "市政大樓",
+    "destinationZh": "義大世界站"
+  },
+  {
+    "ID": "8504",
+    "ProviderId": "10330",
+    "nameZh": "8504",
+    "gxcode": "8504",
+    "ddesc": "黃埔公園－義大世界",
+    "departureZh": "黃埔公園",
+    "destinationZh": "義大世界站"
+  },
+  {
+    "ID": "8505",
+    "ProviderId": "10330",
+    "nameZh": "8505",
+    "gxcode": "8505",
+    "ddesc": "前鎮高中站－義大世界",
+    "departureZh": "前鎮高中",
+    "destinationZh": "義大世界"
+  },
+  {
+    "ID": "8506",
+    "ProviderId": "10330",
+    "nameZh": "8506",
+    "gxcode": "8506",
+    "ddesc": "岡山轉運站－義大世界",
+    "departureZh": "岡山轉運站",
+    "destinationZh": "義大世界"
+  },
+  {
+    "ID": "603",
+    "ProviderId": "10320",
+    "nameZh": "E01旗美國道快捷(往美濃站)",
+    "gxcode": "501",
+    "ddesc": "高鐵左營站－美濃站",
+    "departureZh": "高鐵左營站",
+    "destinationZh": "美濃站"
+  },
+  {
+    "ID": "604",
+    "ProviderId": "10320",
+    "nameZh": "E01旗美國道快捷(往旗山轉運站)",
+    "gxcode": "5011",
+    "ddesc": "高鐵左營站－旗山轉運站",
+    "departureZh": "高鐵左營站",
+    "destinationZh": "旗山轉運站"
+  },
+  {
+    "ID": "609",
+    "ProviderId": "10320",
+    "nameZh": "E02哈佛快線",
+    "gxcode": "502",
+    "ddesc": "高鐵左營站->佛光山",
+    "departureZh": "高鐵左營站",
+    "destinationZh": "佛光山"
+  },
+  {
+    "ID": "852",
+    "ProviderId": "10330",
+    "nameZh": "E03燕巢快線",
+    "gxcode": "503",
+    "ddesc": "高鐵左營站－義大醫院",
+    "departureZh": "高鐵左營站",
+    "destinationZh": "義大醫院"
+  },
+  {
+    "ID": "8541",
+    "ProviderId": "10330",
+    "nameZh": "E04燕巢學園快線A",
+    "gxcode": "504",
+    "ddesc": "高鐵左營站－高師大燕巢校區",
+    "departureZh": "高鐵左營站",
+    "destinationZh": "高師大燕巢校區"
+  },
+  {
+    "ID": "8542",
+    "ProviderId": "10330",
+    "nameZh": "E04燕巢學園快線B",
+    "gxcode": "5041",
+    "ddesc": "高鐵左營站－樹德科大",
+    "departureZh": "高鐵左營站",
+    "destinationZh": "樹德科大"
+  },
+  {
+    "ID": "270",
+    "ProviderId": "10360",
+    "nameZh": "E05西城快線",
+    "gxcode": "505",
+    "ddesc": "台鐵新左營站－西子灣、中山大學",
+    "departureZh": "台鐵新左營站",
+    "destinationZh": "中山大學"
+  },
+  {
+    "ID": "280",
+    "ProviderId": "10360",
+    "nameZh": "E06空港快線A",
+    "gxcode": "280",
+    "ddesc": "捷運機場站－紅毛港文化園區",
+    "departureZh": "捷運機場站",
+    "destinationZh": "紅毛港文化園區"
+  },
+  {
+    "ID": "2801",
+    "ProviderId": "10360",
+    "nameZh": "E06空港快線B",
+    "gxcode": "2801",
+    "ddesc": "捷運小港站三號出口－機場咖啡",
+    "departureZh": "捷運小港站",
+    "destinationZh": "機場咖啡"
+  },
+  {
+    "ID": "8042",
+    "ProviderId": "10320",
+    "nameZh": "E07(例假日延駛奇美博物館、台南航空站)",
+    "gxcode": "507",
+    "ddesc": "旗山北站－高鐵台南站",
+    "departureZh": "旗山北站",
+    "destinationZh": "高鐵台南站"
+  },
+  {
+    "ID": "8052",
+    "ProviderId": "10320",
+    "nameZh": "E07區(例假日部分班次延駛奇美博物館、台南航空站)",
+    "gxcode": "5071",
+    "ddesc": "阿蓮分駐所－高鐵台南站",
+    "departureZh": "阿蓮分駐所",
+    "destinationZh": "高鐵台南站"
+  },
+  {
+    "ID": "509",
+    "ProviderId": "10320",
+    "nameZh": "E09 鳳山燕巢城市快線",
+    "gxcode": "509",
+    "ddesc": "捷運衛武營站－樹德科大校區(延駛高應大、高師大)",
+    "departureZh": "捷運衛武營站",
+    "destinationZh": "高師大燕巢校區"
+  },
+  {
+    "ID": "510",
+    "ProviderId": "10320",
+    "nameZh": "E10小港燕巢城市快線",
+    "gxcode": "510",
+    "ddesc": "捷運草衙站－樹德科大校區(延駛高應大、高師大)",
+    "departureZh": "捷運草衙站",
+    "destinationZh": "高師大燕巢校區"
+  },
+  {
+    "ID": "8046",
+    "ProviderId": "10320",
+    "nameZh": "E08-8046",
+    "gxcode": "508",
+    "ddesc": "高雄火車站－台南火車站",
+    "departureZh": "高雄火車站",
+    "destinationZh": "台南火車站"
+  },
+  {
+    "ID": "8073",
+    "ProviderId": "10320",
+    "nameZh": "E08-8046A",
+    "gxcode": "5081",
+    "ddesc": "高鐵左營站－台南火車站",
+    "departureZh": "高鐵左營站",
+    "destinationZh": "台南火車站"
+  },
+  {
+    "ID": "683",
+    "ProviderId": "10360",
+    "nameZh": "大岡山假日觀光公車",
+    "gxcode": "683",
+    "ddesc": "捷運南岡山站－月世界",
+    "departureZh": "捷運南岡山站",
+    "destinationZh": "日月禪寺"
+  },
+  {
+    "ID": "682",
+    "ProviderId": "10250",
+    "nameZh": "大樹祈福線",
+    "gxcode": "800",
+    "ddesc": "鳳山火車站－佛陀紀念館",
+    "departureZh": "鳳山火車站",
+    "destinationZh": "佛陀紀念館"
+  },
+  {
+    "ID": "600",
+    "ProviderId": "",
+    "nameZh": "仁大接駁專車",
+    "gxcode": "600",
+    "ddesc": "仁武工業區->高鐵左營站",
+    "departureZh": "",
+    "destinationZh": "高鐵左營站"
+  },
+  {
+    "ID": "251",
+    "ProviderId": "10360",
+    "nameZh": "哈瑪星文化公車",
+    "gxcode": "777",
+    "ddesc": "捷運西子灣站2號出口->駁二藝術特區",
+    "departureZh": "",
+    "destinationZh": "歷史博物館(電影館)"
+  },
+  {
+    "ID": "801",
+    "ProviderId": "10250",
+    "nameZh": "紅1",
+    "gxcode": "801",
+    "ddesc": "高雄餐旅大學(松華路)－捷運小港站",
+    "departureZh": "高雄餐旅大學(松華路)",
+    "destinationZh": "捷運小港站"
+  },
+  {
+    "ID": "8100",
+    "ProviderId": "10250",
+    "nameZh": "紅1(行駛中鋼)",
+    "gxcode": "8100",
+    "ddesc": "高雄餐旅大學(松華路)－捷運小港站",
+    "departureZh": "高雄餐旅大學(松華路)",
+    "destinationZh": "中鋼"
+  },
+  {
+    "ID": "179",
+    "ProviderId": "10360",
+    "nameZh": "紅2A",
+    "gxcode": "8200",
+    "ddesc": "捷運小港站－鳳鼻頭",
+    "departureZh": "公車小港站",
+    "destinationZh": "鳳鼻頭港"
+  },
+  {
+    "ID": "1792",
+    "ProviderId": "10360",
+    "nameZh": "紅2B(去延駛職訓)",
+    "gxcode": "8201",
+    "ddesc": "捷運小港站－鳳鼻頭",
+    "departureZh": "公車小港站",
+    "destinationZh": "鳳鼻頭港"
+  },
+  {
+    "ID": "1793",
+    "ProviderId": "10360",
+    "nameZh": "紅2C(返延駛職訓)",
+    "gxcode": "8202",
+    "ddesc": "捷運小港站－鳳鼻頭",
+    "departureZh": "公車小港站",
+    "destinationZh": "鳳鼻頭港"
+  },
+  {
+    "ID": "1791",
+    "ProviderId": "10360",
+    "nameZh": "紅2D(直達車)",
+    "gxcode": "8203",
+    "ddesc": "捷運小港站－鳳鼻頭",
+    "departureZh": "小港站",
+    "destinationZh": "鳳鼻頭港"
+  },
+  {
+    "ID": "211",
+    "ProviderId": "10360",
+    "nameZh": "紅3A",
+    "gxcode": "8130",
+    "ddesc": "捷運小港站－林園區公所",
+    "departureZh": "小港站",
+    "destinationZh": "林園高中"
+  },
+  {
+    "ID": "2111",
+    "ProviderId": "10360",
+    "nameZh": "紅3B(去不繞大林蒲)",
+    "gxcode": "8131",
+    "ddesc": "捷運小港站－林園區公所",
+    "departureZh": "小港站",
+    "destinationZh": "林園高中"
+  },
+  {
+    "ID": "2112",
+    "ProviderId": "10360",
+    "nameZh": "紅3C(返不繞大林蒲)",
+    "gxcode": "8132",
+    "ddesc": "捷運小港站－林園區公所",
+    "departureZh": "小港站",
+    "destinationZh": "林園高中"
+  },
+  {
+    "ID": "2113",
+    "ProviderId": "10360",
+    "nameZh": "紅3D(去返不繞大林蒲)",
+    "gxcode": "8133",
+    "ddesc": "捷運小港站－林園區公所",
+    "departureZh": "小港站",
+    "destinationZh": "林園高中"
+  },
+  {
+    "ID": "2114",
+    "ProviderId": "10360",
+    "nameZh": "紅3E(去返不繞大林蒲，不經西溪路)",
+    "gxcode": "8134",
+    "ddesc": "捷運小港站－林園區公所",
+    "departureZh": "小港站",
+    "destinationZh": "林園高中"
+  },
+  {
+    "ID": "2115",
+    "ProviderId": "10360",
+    "nameZh": "紅3F(去返不繞大林蒲、宏平路，不經西溪路)",
+    "gxcode": "8135",
+    "ddesc": "捷運小港站－林園區公所",
+    "departureZh": "小港站",
+    "destinationZh": "林園高中"
+  },
+  {
+    "ID": "2116",
+    "ProviderId": "10360",
+    "nameZh": "紅3G(延駛清水寺)",
+    "gxcode": "8136",
+    "ddesc": "捷運小港站－林園區公所",
+    "departureZh": "小港站",
+    "destinationZh": "林園高中"
+  },
+  {
+    "ID": "2117",
+    "ProviderId": "10360",
+    "nameZh": "紅3H(沿駛清水寺及大林浦)",
+    "gxcode": "8137",
+    "ddesc": "捷運小港站－林園高中",
+    "departureZh": "小港站",
+    "destinationZh": "林園高中"
+  },
+  {
+    "ID": "2118",
+    "ProviderId": "10360",
+    "nameZh": "紅3I(不經大林埔)",
+    "gxcode": "8138",
+    "ddesc": "清水寺－小港站",
+    "departureZh": "",
+    "destinationZh": "小港站"
+  },
+  {
+    "ID": "213",
+    "ProviderId": "10360",
+    "nameZh": "紅5",
+    "gxcode": "805",
+    "ddesc": "捷運小港站－中智路郵局",
+    "departureZh": "捷運小港站",
+    "destinationZh": "中智路郵局"
+  },
+  {
+    "ID": "806",
+    "ProviderId": "10250",
+    "nameZh": "紅6",
+    "gxcode": "806",
+    "ddesc": "捷運草衙站－小港站",
+    "departureZh": "捷運草衙站",
+    "destinationZh": "公車小港站"
+  },
+  {
+    "ID": "807",
+    "ProviderId": "10250",
+    "nameZh": "紅7A(不經紅毛港)",
+    "gxcode": "8071",
+    "ddesc": "后安路－孔宅(不經紅毛港)",
+    "departureZh": "后安路",
+    "destinationZh": "孔宅"
+  },
+  {
+    "ID": "8071",
+    "ProviderId": "10250",
+    "nameZh": "紅7B(經紅毛港)",
+    "gxcode": "8072",
+    "ddesc": "后安路－孔宅(經紅毛港)",
+    "departureZh": "后安路",
+    "destinationZh": "孔宅"
+  },
+  {
+    "ID": "8072",
+    "ProviderId": "10250",
+    "nameZh": "紅7C(延駛漁業署)",
+    "gxcode": "8073",
+    "ddesc": "后安路－孔宅(延駛漁業署)",
+    "departureZh": "后安路",
+    "destinationZh": "孔宅"
+  },
+  {
+    "ID": "362",
+    "ProviderId": "10360",
+    "nameZh": "紅8A",
+    "gxcode": "8081",
+    "ddesc": "小港站－大寮區公所",
+    "departureZh": "小港站",
+    "destinationZh": "大寮區公所"
+  },
+  {
+    "ID": "3621",
+    "ProviderId": "10360",
+    "nameZh": "紅8B(去繞昭明)",
+    "gxcode": "8082",
+    "ddesc": "小港站－大寮區公所",
+    "departureZh": "小港站",
+    "destinationZh": "大寮區公所"
+  },
+  {
+    "ID": "3623",
+    "ProviderId": "10360",
+    "nameZh": "紅8C(返繞昭明)",
+    "gxcode": "8083",
+    "ddesc": "小港站－大寮區公所",
+    "departureZh": "小港站",
+    "destinationZh": "大寮區公所"
+  },
+  {
+    "ID": "3622",
+    "ProviderId": "10360",
+    "nameZh": "紅8D(去返繞高松市場)",
+    "gxcode": "8084",
+    "ddesc": "小港站－大寮區公所",
+    "departureZh": "小港站",
+    "destinationZh": "大寮區公所"
+  },
+  {
+    "ID": "3624",
+    "ProviderId": "10360",
+    "nameZh": "紅8E(區間)",
+    "gxcode": "8085",
+    "ddesc": "小港站－大寮區公所",
+    "departureZh": "小港站",
+    "destinationZh": "大寮區公所"
+  },
+  {
+    "ID": "116",
+    "ProviderId": "10360",
+    "nameZh": "紅9A",
+    "gxcode": "8091",
+    "ddesc": "前鎮站－旗津站",
+    "departureZh": "前鎮站",
+    "destinationZh": "旗津輪渡站"
+  },
+  {
+    "ID": "1161",
+    "ProviderId": "10360",
+    "nameZh": "紅9B(返程延駛旗津漁港)",
+    "gxcode": "8092",
+    "ddesc": "前鎮站－旗津站",
+    "departureZh": "前鎮站",
+    "destinationZh": "旗津輪渡站"
+  },
+  {
+    "ID": "1162",
+    "ProviderId": "10360",
+    "nameZh": "紅9C(去返延駛旗津漁港)",
+    "gxcode": "8093",
+    "ddesc": "前鎮站－旗津輪渡站",
+    "departureZh": "前鎮站",
+    "destinationZh": "旗津輪渡站"
+  },
+  {
+    "ID": "1163",
+    "ProviderId": "10360",
+    "nameZh": "紅9D(區間車)",
+    "gxcode": "8094",
+    "ddesc": "小港站－海岸公園",
+    "departureZh": "小港站",
+    "destinationZh": "海岸公園"
+  },
+  {
+    "ID": "1164",
+    "ProviderId": "10360",
+    "nameZh": "紅9E(假日觀光公車)",
+    "gxcode": "8095",
+    "ddesc": "海水浴場－旗津市場",
+    "departureZh": "海水浴場",
+    "destinationZh": "旗津市場"
+  },
+  {
+    "ID": "1166",
+    "ProviderId": "10360",
+    "nameZh": "紅9G延駛小港高中(上午)",
+    "gxcode": "8097",
+    "ddesc": "前鎮站－海岸公園",
+    "departureZh": "前鎮站",
+    "destinationZh": "海岸公園"
+  },
+  {
+    "ID": "1167",
+    "ProviderId": "10360",
+    "nameZh": "紅9H延駛小港國中(下午)",
+    "gxcode": "8098",
+    "ddesc": "前鎮站－海岸公園",
+    "departureZh": "前鎮站",
+    "destinationZh": "海岸公園"
+  },
+  {
+    "ID": "810",
+    "ProviderId": "10250",
+    "nameZh": "紅10A五甲幹線",
+    "gxcode": "8101",
+    "ddesc": "前鎮高中站－中崙社區",
+    "departureZh": "捷運前鎮高中站",
+    "destinationZh": "中崙四路"
+  },
+  {
+    "ID": "8101",
+    "ProviderId": "10250",
+    "nameZh": "紅10B五甲幹線",
+    "gxcode": "8102",
+    "ddesc": "前鎮高中站－捷運大東站",
+    "departureZh": "捷運前鎮高中站",
+    "destinationZh": "捷運大東站"
+  },
+  {
+    "ID": "811",
+    "ProviderId": "10250",
+    "nameZh": "紅11",
+    "gxcode": "811",
+    "ddesc": "過埤派出所－前鎮高中站",
+    "departureZh": "過埤派出所",
+    "destinationZh": "前鎮高中站"
+  },
+  {
+    "ID": "812",
+    "ProviderId": "10250",
+    "nameZh": "紅12A",
+    "gxcode": "8121",
+    "ddesc": "公車瑞豐站－公車前鎮站",
+    "departureZh": "公車瑞豐站",
+    "destinationZh": "公車前鎮站"
+  },
+  {
+    "ID": "8121",
+    "ProviderId": "10250",
+    "nameZh": "紅12B",
+    "gxcode": "8122",
+    "ddesc": "公車瑞豐站－高雄加工出口區",
+    "departureZh": "公車瑞豐站",
+    "destinationZh": "公車前鎮站"
+  },
+  {
+    "ID": "816",
+    "ProviderId": "10250",
+    "nameZh": "紅16",
+    "gxcode": "816",
+    "ddesc": "軟科園區－捷運三多商圈",
+    "departureZh": "軟體園區",
+    "destinationZh": "捷運三多商圈站"
+  },
+  {
+    "ID": "818",
+    "ProviderId": "10250",
+    "nameZh": "紅18一心幹線",
+    "gxcode": "818",
+    "ddesc": "中崙社區－實踐大學",
+    "departureZh": "中崙四路",
+    "destinationZh": "實踐大學"
+  },
+  {
+    "ID": "220",
+    "ProviderId": "10270",
+    "nameZh": "紅21",
+    "gxcode": "821",
+    "ddesc": "建軍站－捷運三多商圈站－新光路口",
+    "departureZh": "建軍站",
+    "destinationZh": "新光路口"
+  },
+  {
+    "ID": "2201",
+    "ProviderId": "10270",
+    "nameZh": "紅21區",
+    "gxcode": "8211",
+    "ddesc": "建軍站(捷運衛武營站)－新光路口",
+    "departureZh": "建軍站(捷運衛武營站)",
+    "destinationZh": "新光路口"
+  },
+  {
+    "ID": "827",
+    "ProviderId": "10250",
+    "nameZh": "紅27",
+    "gxcode": "827",
+    "ddesc": "捷運高雄車站－中都",
+    "departureZh": "捷運高雄車站",
+    "destinationZh": "中都"
+  },
+  {
+    "ID": "828",
+    "ProviderId": "10310",
+    "nameZh": "紅28",
+    "gxcode": "828",
+    "ddesc": "客家文物館－汾陽路口",
+    "departureZh": "客家文物館",
+    "destinationZh": "義華路"
+  },
+  {
+    "ID": "8281",
+    "ProviderId": "10310",
+    "nameZh": "紅28(繞中都濕地公園)",
+    "gxcode": "8281",
+    "ddesc": "察哈爾街口－汾陽路口",
+    "departureZh": "察哈爾街口",
+    "destinationZh": "義華路"
+  },
+  {
+    "ID": "829",
+    "ProviderId": "10310",
+    "nameZh": "紅29",
+    "gxcode": "829",
+    "ddesc": "捷運後驛站－陽明國小",
+    "departureZh": "捷運後驛站",
+    "destinationZh": "陽明國小"
+  },
+  {
+    "ID": "8301",
+    "ProviderId": "10310",
+    "nameZh": "紅30A建工幹線(06:00-17:00延駛澄清湖)",
+    "gxcode": "830",
+    "ddesc": "忠誠路口－高雄火車站",
+    "departureZh": "忠誠路口",
+    "destinationZh": "高雄火車站(捷運高雄車站)"
+  },
+  {
+    "ID": "8302",
+    "ProviderId": "10310",
+    "nameZh": "紅30B建工幹線(學校寒暑假停駛)",
+    "gxcode": "8301",
+    "ddesc": "捷運後驛站－高應大和高雄工職",
+    "departureZh": "捷運後驛站",
+    "destinationZh": "高應大"
+  },
+  {
+    "ID": "832",
+    "ProviderId": "10310",
+    "nameZh": "紅32A",
+    "gxcode": "832",
+    "ddesc": "捷運凹仔底站－大榮高中",
+    "departureZh": "捷運凹子底站",
+    "destinationZh": "大榮高中"
+  },
+  {
+    "ID": "8321",
+    "ProviderId": "10310",
+    "nameZh": "紅32B(學校寒暑假停駛)",
+    "gxcode": "8321",
+    "ddesc": "捷運凹仔底站－鼓山高中",
+    "departureZh": "捷運凹子底站",
+    "destinationZh": "大榮幼稚園"
+  },
+  {
+    "ID": "833",
+    "ProviderId": "10310",
+    "nameZh": "紅33明誠幹線",
+    "gxcode": "833",
+    "ddesc": "中華藝校－鳳山商工",
+    "departureZh": "中華藝校",
+    "destinationZh": "鳳山商工"
+  },
+  {
+    "ID": "210",
+    "ProviderId": "10350",
+    "nameZh": "紅35",
+    "gxcode": "835",
+    "ddesc": "金獅湖站－捷運凹子底站",
+    "departureZh": "金獅湖站",
+    "destinationZh": "捷運凹子底站"
+  },
+  {
+    "ID": "836",
+    "ProviderId": "10310",
+    "nameZh": "紅36",
+    "gxcode": "836",
+    "ddesc": "先勝路口－文藻外語",
+    "departureZh": "先勝路口",
+    "destinationZh": "文藻外語學院"
+  },
+  {
+    "ID": "8361",
+    "ProviderId": "10310",
+    "nameZh": "紅36(17:08－23:30繞文信路)",
+    "gxcode": "8361",
+    "ddesc": "先勝路口－文藻外語",
+    "departureZh": "先勝路口",
+    "destinationZh": "文藻外語學院"
+  },
+  {
+    "ID": "850",
+    "ProviderId": "10310",
+    "nameZh": "紅50",
+    "gxcode": "850",
+    "ddesc": "捷運生態園區站－高鐵左營站",
+    "departureZh": "崇德路口",
+    "destinationZh": "捷運左營站"
+  },
+  {
+    "ID": "851",
+    "ProviderId": "10310",
+    "nameZh": "紅51A",
+    "gxcode": "851",
+    "ddesc": "捷運左營站－蓮池潭",
+    "departureZh": "捷運左營站",
+    "destinationZh": "城峰路"
+  },
+  {
+    "ID": "8511",
+    "ProviderId": "10310",
+    "nameZh": "紅51B",
+    "gxcode": "8511",
+    "ddesc": "捷運左營站－捷運生態園區站",
+    "departureZh": "捷運左營站(台鐵新左營)",
+    "destinationZh": "捷運生態園區站"
+  },
+  {
+    "ID": "8512",
+    "ProviderId": "10310",
+    "nameZh": "紅51C(平日停駛)",
+    "gxcode": "8512",
+    "ddesc": "捷運左營站－高雄物產館",
+    "departureZh": "捷運左營站(台鐵新左營)",
+    "destinationZh": "高雄物產館"
+  },
+  {
+    "ID": "853",
+    "ProviderId": "10310",
+    "nameZh": "紅53A(假日停駛)",
+    "gxcode": "853",
+    "ddesc": "台鐵新左營站－援中國小",
+    "departureZh": "台鐵新左營站",
+    "destinationZh": "中興里"
+  },
+  {
+    "ID": "8531",
+    "ProviderId": "10310",
+    "nameZh": "紅53B(不經高雄大學)",
+    "gxcode": "8531",
+    "ddesc": "台鐵新左營站－蚵仔寮漁港",
+    "departureZh": "台鐵新左營站",
+    "destinationZh": "蚵仔寮漁港"
+  },
+  {
+    "ID": "8532",
+    "ProviderId": "10310",
+    "nameZh": "紅53C(延駛高雄大學)",
+    "gxcode": "8532",
+    "ddesc": "台鐵新左營站－蚵仔寮漁港",
+    "departureZh": "台鐵新左營站",
+    "destinationZh": "蚵仔寮漁港"
+  },
+  {
+    "ID": "8533",
+    "ProviderId": "10310",
+    "nameZh": "紅53D",
+    "gxcode": "8533",
+    "ddesc": "台鐵新左營站－蚵仔寮漁港",
+    "departureZh": "台鐵新左營站",
+    "destinationZh": "蚵仔寮漁港"
+  },
+  {
+    "ID": "856",
+    "ProviderId": "10310",
+    "nameZh": "紅56A",
+    "gxcode": "856",
+    "ddesc": "捷運楠梓加工區站－高雄大學",
+    "departureZh": "捷運楠梓加工區站",
+    "destinationZh": "高雄大學站"
+  },
+  {
+    "ID": "8561",
+    "ProviderId": "10310",
+    "nameZh": "紅56B(延駛德民黃昏市場)",
+    "gxcode": "8561",
+    "ddesc": "捷運楠梓加工區站－高雄大學",
+    "departureZh": "捷運楠梓加工區站",
+    "destinationZh": "高雄大學站"
+  },
+  {
+    "ID": "8562",
+    "ProviderId": "10310",
+    "nameZh": "紅56C(學校寒暑假停駛)",
+    "gxcode": "8562",
+    "ddesc": "捷運楠梓加工區站－藍昌路口",
+    "departureZh": "捷運楠梓加工區站",
+    "destinationZh": "藍昌路口"
+  },
+  {
+    "ID": "858",
+    "ProviderId": "10310",
+    "nameZh": "紅58A",
+    "gxcode": "858",
+    "ddesc": "捷運都會公園站－高雄第一科大(西校區)",
+    "departureZh": "捷運都會公園站",
+    "destinationZh": "高雄第一科大"
+  },
+  {
+    "ID": "8581",
+    "ProviderId": "10310",
+    "nameZh": "紅58B",
+    "gxcode": "8581",
+    "ddesc": "捷運都會公園站－燕巢區公所",
+    "departureZh": "捷運都會公園站",
+    "destinationZh": "燕巢區公所"
+  },
+  {
+    "ID": "8582",
+    "ProviderId": "10310",
+    "nameZh": "紅58C(學校寒暑假停駛)",
+    "gxcode": "8582",
+    "ddesc": "捷運都會公園站－楠梓高中",
+    "departureZh": "捷運都會公園站",
+    "destinationZh": "楠梓高中"
+  },
+  {
+    "ID": "860",
+    "ProviderId": "10310",
+    "nameZh": "紅60A",
+    "gxcode": "860",
+    "ddesc": "左營高鐵站－仁武區公所",
+    "departureZh": "左營高鐵站",
+    "destinationZh": "仁武區公所"
+  },
+  {
+    "ID": "8601",
+    "ProviderId": "10310",
+    "nameZh": "紅60B",
+    "gxcode": "8601",
+    "ddesc": "左營高鐵站－加昌站",
+    "departureZh": "左營高鐵站",
+    "destinationZh": "加昌站"
+  },
+  {
+    "ID": "8602",
+    "ProviderId": "10310",
+    "nameZh": "紅60B(繞駛仁翔社區)",
+    "gxcode": "8602",
+    "ddesc": "左營高鐵站－加昌站",
+    "departureZh": "左營高鐵站",
+    "destinationZh": "加昌站"
+  },
+  {
+    "ID": "868",
+    "ProviderId": "10320",
+    "nameZh": "紅68A",
+    "gxcode": "8681",
+    "ddesc": "漢翔公司－捷運南岡山站",
+    "departureZh": "漢翔公司",
+    "destinationZh": "捷運南岡山站"
+  },
+  {
+    "ID": "8682",
+    "ProviderId": "10320",
+    "nameZh": "紅68A(延駛大莊里)",
+    "gxcode": "8684",
+    "ddesc": "漢翔公司－捷運南岡山站",
+    "departureZh": "漢翔公司",
+    "destinationZh": "捷運南岡山站"
+  },
+  {
+    "ID": "8681",
+    "ProviderId": "10320",
+    "nameZh": "紅68B(延駛岡山轉運站)",
+    "gxcode": "8682",
+    "ddesc": "捷運南岡山站－漢翔公司",
+    "departureZh": "捷運南岡山站",
+    "destinationZh": "漢翔公司"
+  },
+  {
+    "ID": "8683",
+    "ProviderId": "10320",
+    "nameZh": "紅68C(週一~週五延駛燁聯鋼鐵)",
+    "gxcode": "8683",
+    "ddesc": "捷運南岡山站－中鴻鋼鐵",
+    "departureZh": "捷運南岡山站",
+    "destinationZh": "漢翔公司"
+  },
+  {
+    "ID": "869",
+    "ProviderId": "10320",
+    "nameZh": "紅69A",
+    "gxcode": "8691",
+    "ddesc": "捷運南岡山站－岡山高中",
+    "departureZh": "捷運南岡山站",
+    "destinationZh": "岡山高中"
+  },
+  {
+    "ID": "8691",
+    "ProviderId": "10320",
+    "nameZh": "紅69B(延駛高苑科大)",
+    "gxcode": "8692",
+    "ddesc": "捷運南岡山站－高雄科學園區",
+    "departureZh": "捷運南岡山站",
+    "destinationZh": "高雄科學園區"
+  },
+  {
+    "ID": "8692",
+    "ProviderId": "10320",
+    "nameZh": "紅69C(延駛本洲工業區)",
+    "gxcode": "8693",
+    "ddesc": "捷運南岡山站－高雄科學園區",
+    "departureZh": "捷運南岡山站",
+    "destinationZh": "高雄科學園區"
+  },
+  {
+    "ID": "8693",
+    "ProviderId": "10320",
+    "nameZh": "紅69D",
+    "gxcode": "8694",
+    "ddesc": "捷運南岡山站－順安宮",
+    "departureZh": "捷運南岡山站",
+    "destinationZh": "順安宮"
+  },
+  {
+    "ID": "253",
+    "ProviderId": "10360",
+    "nameZh": "紅70A",
+    "gxcode": "870",
+    "ddesc": "捷運南岡山站－田寮區公所",
+    "departureZh": "捷運南岡山站",
+    "destinationZh": "田寮區公所"
+  },
+  {
+    "ID": "2533",
+    "ProviderId": "10360",
+    "nameZh": "紅70B(延駛隆后宮)",
+    "gxcode": "8703",
+    "ddesc": "捷運南岡山站－田寮區公所",
+    "departureZh": "捷運南岡山站",
+    "destinationZh": "田寮區公所"
+  },
+  {
+    "ID": "2534",
+    "ProviderId": "10360",
+    "nameZh": "紅70C區間車(平日)",
+    "gxcode": "8704",
+    "ddesc": "捷運岡山站－阿蓮分駐所",
+    "departureZh": "捷運南岡山站",
+    "destinationZh": "阿蓮分駐所"
+  },
+  {
+    "ID": "871",
+    "ProviderId": "10360",
+    "nameZh": "紅71A",
+    "gxcode": "8711",
+    "ddesc": "捷運南岡山站－茄萣區公所",
+    "departureZh": "捷運南岡山站",
+    "destinationZh": "茄萣區公所"
+  },
+  {
+    "ID": "8711",
+    "ProviderId": "10360",
+    "nameZh": "紅71B1",
+    "gxcode": "8712",
+    "ddesc": "捷運南岡山站－茄萣區公所",
+    "departureZh": "捷運南岡山站",
+    "destinationZh": "茄萣區公所"
+  },
+  {
+    "ID": "8712",
+    "ProviderId": "10360",
+    "nameZh": "紅71B2",
+    "gxcode": "8713",
+    "ddesc": "捷運南岡山站－茄萣區公所",
+    "departureZh": "捷運南岡山站",
+    "destinationZh": "茄萣國小"
+  },
+  {
+    "ID": "8713",
+    "ProviderId": "10360",
+    "nameZh": "紅71C",
+    "gxcode": "8714",
+    "ddesc": "加昌站－捷運南岡山站",
+    "departureZh": "加昌站",
+    "destinationZh": "筆秀站"
+  },
+  {
+    "ID": "8714",
+    "ProviderId": "10360",
+    "nameZh": "紅71D",
+    "gxcode": "8715",
+    "ddesc": "捷運南岡山站－東方設計學院",
+    "departureZh": "捷運南岡山站",
+    "destinationZh": "大湖火車站"
+  },
+  {
+    "ID": "872",
+    "ProviderId": "10320",
+    "nameZh": "紅72A(部份班次延駛安樂宮)",
+    "gxcode": "8721",
+    "ddesc": "捷運南岡山站－彌陀國小",
+    "departureZh": "捷運南岡山站",
+    "destinationZh": "彌陀國小"
+  },
+  {
+    "ID": "8721",
+    "ProviderId": "10320",
+    "nameZh": "紅72B(部分班次延駛保寧)",
+    "gxcode": "8722",
+    "ddesc": "捷運南岡山站－永安區公所",
+    "departureZh": "捷運南岡山站",
+    "destinationZh": "永安區公所"
+  },
+  {
+    "ID": "8722",
+    "ProviderId": "10320",
+    "nameZh": "紅72C(部份班次延駛安樂宮)",
+    "gxcode": "8723",
+    "ddesc": "捷運南岡山站－彌陀國小",
+    "departureZh": "捷運南岡山站",
+    "destinationZh": "彌陀國小"
+  },
+  {
+    "ID": "8723",
+    "ProviderId": "10320",
+    "nameZh": "紅72D",
+    "gxcode": "8724",
+    "ddesc": "捷運南岡山站－頂潭路口",
+    "departureZh": "捷運南岡山站",
+    "destinationZh": "頂潭路口"
+  },
+  {
+    "ID": "221",
+    "ProviderId": "10360",
+    "nameZh": "紅73A",
+    "gxcode": "873",
+    "ddesc": "岡山轉運站(岡山火車站)－阿蓮區公所",
+    "departureZh": "岡山轉運站(岡山火車站)",
+    "destinationZh": "阿蓮區公所"
+  },
+  {
+    "ID": "8732",
+    "ProviderId": "10360",
+    "nameZh": "紅73B",
+    "gxcode": "8732",
+    "ddesc": "岡山轉運站(岡山火車站)－阿蓮區公所",
+    "departureZh": "岡山轉運站(岡山火車站)",
+    "destinationZh": "阿蓮區公所"
+  },
+  {
+    "ID": "149",
+    "ProviderId": "10360",
+    "nameZh": "紅毛港文化公車(小港輪渡站)",
+    "gxcode": "149",
+    "ddesc": "捷運小港站－小港輪渡站",
+    "departureZh": "捷運小港站",
+    "destinationZh": "小港輪渡站"
+  },
+  {
+    "ID": "150",
+    "ProviderId": "10360",
+    "nameZh": "紅毛港文化公車(紅毛港文化園區)",
+    "gxcode": "150",
+    "ddesc": "捷運小港站－紅毛港文化園區",
+    "departureZh": "捷運小港站",
+    "destinationZh": "紅毛港文化園區"
+  },
+  {
+    "ID": "133",
+    "ProviderId": "10320",
+    "nameZh": "就醫公車(六龜-桃源)",
+    "gxcode": "133",
+    "ddesc": "六龜－桃源",
+    "departureZh": "六龜站",
+    "destinationZh": "桃源"
+  },
+  {
+    "ID": "132",
+    "ProviderId": "10320",
+    "nameZh": "就醫公車(六龜-寶來)",
+    "gxcode": "132",
+    "ddesc": "六龜－寶來",
+    "departureZh": "六龜站",
+    "destinationZh": "寶來"
+  },
+  {
+    "ID": "111",
+    "ProviderId": "10320",
+    "nameZh": "就醫公車H11",
+    "gxcode": "411",
+    "ddesc": "桃源區－旗山南站－義大醫院－長庚醫院",
+    "departureZh": "桃源區公所.衛生所",
+    "destinationZh": "長庚醫院"
+  },
+  {
+    "ID": "1111",
+    "ProviderId": "10320",
+    "nameZh": "就醫公車H11A",
+    "gxcode": "4111",
+    "ddesc": "桃源區－旗山南站－義大醫院－長庚醫院",
+    "departureZh": "寶來國中",
+    "destinationZh": "長庚醫院"
+  },
+  {
+    "ID": "1112",
+    "ProviderId": "10320",
+    "nameZh": "就醫公車H11區間(六龜-桃源)",
+    "gxcode": "4112",
+    "ddesc": "六龜－桃源",
+    "departureZh": "桃源區公所.衛生所",
+    "destinationZh": "六龜站"
+  },
+  {
+    "ID": "1113",
+    "ProviderId": "10320",
+    "nameZh": "就醫公車H11區間(寶來-六龜)",
+    "gxcode": "4113",
+    "ddesc": "寶來－六龜",
+    "departureZh": "寶來國中",
+    "destinationZh": "六龜站"
+  },
+  {
+    "ID": "1113",
+    "ProviderId": "10320",
+    "nameZh": "就醫公車H11區間(寶來-六龜)",
+    "gxcode": "4113",
+    "ddesc": "寶來－六龜",
+    "departureZh": "寶來國中",
+    "destinationZh": "六龜站"
+  },
+  {
+    "ID": "112",
+    "ProviderId": "10320",
+    "nameZh": "就醫公車H12",
+    "gxcode": "412",
+    "ddesc": "桃源區－旗山南站－榮民總醫院－高雄醫學院",
+    "departureZh": "桃源區公所.衛生所",
+    "destinationZh": "高醫"
+  },
+  {
+    "ID": "85",
+    "ProviderId": "10320",
+    "nameZh": "就醫公車H21",
+    "gxcode": "421",
+    "ddesc": "那瑪夏區－旗山南站－榮民總醫院－高雄醫學院",
+    "departureZh": "民生二里",
+    "destinationZh": "高醫"
+  },
+  {
+    "ID": "1122",
+    "ProviderId": "10320",
+    "nameZh": "就醫公車H21區間(甲仙站-旗山)",
+    "gxcode": "4212",
+    "ddesc": "甲仙站 － 旗山轉運站",
+    "departureZh": "甲仙站",
+    "destinationZh": "旗山轉運站所"
+  },
+  {
+    "ID": "1121",
+    "ProviderId": "10320",
+    "nameZh": "就醫公車H21區間(那瑪夏-旗山)",
+    "gxcode": "4211",
+    "ddesc": "那瑪夏區公所－旗山轉運站",
+    "departureZh": "那瑪夏區公所.衛生所",
+    "destinationZh": "旗山轉運站"
+  },
+  {
+    "ID": "86",
+    "ProviderId": "10320",
+    "nameZh": "就醫公車H22",
+    "gxcode": "422",
+    "ddesc": "那瑪夏區－旗山南站－義大醫院－長庚醫院",
+    "departureZh": "民生二里",
+    "destinationZh": "長庚醫院"
+  },
+  {
+    "ID": "131",
+    "ProviderId": "10320",
+    "nameZh": "就醫公車H31",
+    "gxcode": "131",
+    "ddesc": "多納－旗山南站",
+    "departureZh": "多納",
+    "destinationZh": "旗山轉運站"
+  },
+  {
+    "ID": "700",
+    "ProviderId": "10250",
+    "nameZh": "鳳山文化公車",
+    "gxcode": "700",
+    "ddesc": "大東文化藝術中心－大東文化藝術中心",
+    "departureZh": "",
+    "destinationZh": "大東文化藝術中心"
+  },
+  {
+    "ID": "901",
+    "ProviderId": "10250",
+    "nameZh": "橘1A",
+    "gxcode": "9011",
+    "ddesc": "捷運西子灣2號出口－中山大學行政大樓",
+    "departureZh": "捷運西子灣1號出口",
+    "destinationZh": "中山大學行政大樓"
+  },
+  {
+    "ID": "9011",
+    "ProviderId": "10250",
+    "nameZh": "橘1B(平日停駛)",
+    "gxcode": "9012",
+    "ddesc": "捷運西子灣2號出口－中山大學行政大樓",
+    "departureZh": "捷運西子灣1號出口",
+    "destinationZh": "中山大學行政大樓"
+  },
+  {
+    "ID": "1601",
+    "ProviderId": "10250",
+    "nameZh": "橘7A(不延駛)",
+    "gxcode": "9072",
+    "ddesc": "建軍站－舊鐵橋濕地",
+    "departureZh": "建軍站",
+    "destinationZh": "舊鐵橋濕地"
+  },
+  {
+    "ID": "1602",
+    "ProviderId": "10250",
+    "nameZh": "橘7A(去程放空)",
+    "gxcode": "9073",
+    "ddesc": "建軍站－舊鐵橋溼地",
+    "departureZh": "建軍站",
+    "destinationZh": ""
+  },
+  {
+    "ID": "160",
+    "ProviderId": "10250",
+    "nameZh": "橘7A(延駛大樹區公所)",
+    "gxcode": "9071",
+    "ddesc": "建軍站－大樹區公所",
+    "departureZh": "建軍站",
+    "destinationZh": "大樹區公所"
+  },
+  {
+    "ID": "9702",
+    "ProviderId": "10250",
+    "nameZh": "橘7B(不延駛佛陀紀念館)",
+    "gxcode": "9075",
+    "ddesc": "建軍站－大樹區公所",
+    "departureZh": "建軍站",
+    "destinationZh": "大樹區公所"
+  },
+  {
+    "ID": "9701",
+    "ProviderId": "10250",
+    "nameZh": "橘7B(假日停駛)",
+    "gxcode": "9074",
+    "ddesc": "建軍站－佛陀紀念館",
+    "departureZh": "建軍站",
+    "destinationZh": "佛陀紀念館"
+  },
+  {
+    "ID": "250",
+    "ProviderId": "10270",
+    "nameZh": "橘8",
+    "gxcode": "908",
+    "ddesc": "建軍站－過埤派出所",
+    "departureZh": "建軍站",
+    "destinationZh": "過埤派出所"
+  },
+  {
+    "ID": "9",
+    "ProviderId": "10270",
+    "nameZh": "橘9(假日停駛)",
+    "gxcode": "909",
+    "ddesc": "捷運衛武營站－林園區公所",
+    "departureZh": "捷運衛武營站",
+    "destinationZh": "林園區公所"
+  },
+  {
+    "ID": "910",
+    "ProviderId": "10270",
+    "nameZh": "橘10A(假日停駛)",
+    "gxcode": "910",
+    "ddesc": "捷運衛武營站－鳳山轉運站",
+    "departureZh": "捷運衛武營站",
+    "destinationZh": "捷運大東站"
+  },
+  {
+    "ID": "9102",
+    "ProviderId": "10270",
+    "nameZh": "橘10B(假日停駛)",
+    "gxcode": "9102",
+    "ddesc": "捷運衛武營站－鳳山轉運站",
+    "departureZh": "捷運衛武營站",
+    "destinationZh": "捷運大東站"
+  },
+  {
+    "ID": "911",
+    "ProviderId": "10320",
+    "nameZh": "橘11",
+    "gxcode": "911",
+    "ddesc": "林園站－建軍站",
+    "departureZh": "林園站",
+    "destinationZh": "建軍站"
+  },
+  {
+    "ID": "912",
+    "ProviderId": "10320",
+    "nameZh": "橘12鳳青幹線(05:50-17:50延駛澄清湖)",
+    "gxcode": "912",
+    "ddesc": "中崙－長庚醫院",
+    "departureZh": "中崙二路",
+    "destinationZh": "長庚醫院"
+  },
+  {
+    "ID": "9121",
+    "ProviderId": "10320",
+    "nameZh": "橘12鳳青幹線區間車",
+    "gxcode": "9121",
+    "ddesc": "捷運鳳山西站-鳳新高中",
+    "departureZh": "",
+    "destinationZh": "鳳新高中"
+  },
+  {
+    "ID": "916",
+    "ProviderId": "10270",
+    "nameZh": "橘16",
+    "gxcode": "916",
+    "ddesc": "鳳山轉運站-仁武區公所",
+    "departureZh": "鳳山轉運站",
+    "destinationZh": "仁武區公所"
+  },
+  {
+    "ID": "9161",
+    "ProviderId": "10270",
+    "nameZh": "橘16(延駛大社)",
+    "gxcode": "9161",
+    "ddesc": "鳳山轉運站-大社區公所",
+    "departureZh": "鳳山轉運站(捷運大東站)",
+    "destinationZh": "大社區公所"
+  },
+  {
+    "ID": "920",
+    "ProviderId": "10250",
+    "nameZh": "橘20A",
+    "gxcode": "9201",
+    "ddesc": "捷運大寮站－大寮",
+    "departureZh": "捷運大寮站",
+    "destinationZh": "大寮"
+  },
+  {
+    "ID": "9201",
+    "ProviderId": "10250",
+    "nameZh": "橘20B",
+    "gxcode": "9202",
+    "ddesc": "捷運大寮站－上寮路口",
+    "departureZh": "捷運大寮站",
+    "destinationZh": "上寮路口"
+  },
+  {
+    "ID": "9202",
+    "ProviderId": "10250",
+    "nameZh": "橘20C",
+    "gxcode": "9203",
+    "ddesc": "捷運大寮站－輔英科大",
+    "departureZh": "捷運大寮站",
+    "destinationZh": "輔英科大"
+  },
+  {
+    "ID": "9203",
+    "ProviderId": "10250",
+    "nameZh": "橘20D(假日停駛)",
+    "gxcode": "9204",
+    "ddesc": "捷運大寮站－潮寮國中",
+    "departureZh": "捷運大寮站",
+    "destinationZh": "潮寮國中"
+  },
+  {
+    "ID": "9204",
+    "ProviderId": "10250",
+    "nameZh": "橘20E",
+    "gxcode": "9205",
+    "ddesc": "捷運大寮站－中庄",
+    "departureZh": "",
+    "destinationZh": "中庄"
+  },
+  {
+    "ID": "921",
+    "ProviderId": "10270",
+    "nameZh": "橘21A",
+    "gxcode": "9211",
+    "ddesc": "和春技術學院(大發校區)－捷運大寮站",
+    "departureZh": "和春技術學院(大發校區)",
+    "destinationZh": "捷運大寮站"
+  },
+  {
+    "ID": "9211",
+    "ProviderId": "10270",
+    "nameZh": "橘21B",
+    "gxcode": "9212",
+    "ddesc": "月天寺－捷運大寮站",
+    "departureZh": "月天寺",
+    "destinationZh": "捷運大寮站"
+  },
+  {
+    "ID": "922",
+    "ProviderId": "10270",
+    "nameZh": "橘22",
+    "gxcode": "922",
+    "ddesc": "江山社區活動中心－捷運大寮站",
+    "departureZh": "江山社區活動中心",
+    "destinationZh": "捷運大寮站"
+  },
+  {
+    "ID": "252",
+    "ProviderId": "10360",
+    "nameZh": "舊城文化公車(平日停駛)",
+    "gxcode": "666",
+    "ddesc": "高鐵左營站－孔廟",
+    "departureZh": "",
+    "destinationZh": "孔廟"
+  }
+]
