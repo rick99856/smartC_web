@@ -1,0 +1,218 @@
+<!DOCTYPE HTML>
+<!--
+	Hyperspace by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>API Web</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body>
+
+		<!-- Sidebar -->
+			<section id="sidebar">
+				<div class="inner">
+					<nav>
+						<ul>
+							<li><a href="#intro" style="font-size:16px;">Index</a></li>
+							<li><a href="#one" style="font-size:16px;">Break & Breakfast</a></li>
+							<li><a href="#two" style="font-size:16px;">Parking</a></li>
+							<li><a href="#three" style="font-size:16px;">Scenary</a></li>
+						</ul>
+					</nav>
+				</div>
+			</section>
+
+		<!-- Wrapper -->
+			<div id="wrapper" style="background-color:#176684">
+
+				<!-- Intro -->
+					<section id="intro" class="wrapper style1 fullscreen fade-up">
+						<div class="inner">
+							<h1>Open Data Collection</h1>
+							<font face="monospace"><p><b>供您旅遊更方便的OPEN DATA<br />
+							樹德科技大學 資訊工程系 黃建澤</b></p></font>
+							
+							<ul class="actions">
+								<!-- <li><a href="#one" class="button scrolly">Learn more</a></li> -->
+							</ul>
+						</div>
+					</section>
+
+				<!-- One -->
+					<section id="one" class="wrapper style2 spotlights">
+						<section>
+							<a href="" class="image"><img src="images/bab.jpg" alt="" data-position="center center" /></a>
+							<div class="content">
+								<div class="inner">
+									<h2>民宿資訊</h2>
+									<p>經過統整高雄及台南後的Open Data資料<br /><br />欄位說明:id,Name,Addr,Tel,Lng
+										,Lat,site</p>
+									<ul class="actions">
+										
+										<li><a href="bab_csvoutput.php?db=bab" class="button">csv</a></li>
+										<li><a href="bab_jsonoutput.php?db=bab" class="button">json</a></li>
+										
+									</ul>
+								</div>
+							</div>
+						</section>
+						<section>
+							<a href="" class="image"><img src="images/bab_kao.jpg" alt="" data-position="top center" /></a>
+							<div class="content">
+								<div class="inner">
+									<h2>高雄民宿</h2>
+									<p>由高雄市政府所提供的Open Data資料<br />欄位說明:編號,類別,星等,旅宿名稱,縣市,鄉鎮,地址,電話,傳真,房間數,電子郵件,電子郵件,4,經度Lng,緯度Lat,資料序號Seq</p>
+									<ul class="actions">
+										<li><a href="bab_csvoutput.php?db=bab_kao" class="button">csv</a></li>
+										<li><a href="bab_jsonoutput.php?db=bab_kao" class="button">json</a></li>
+										
+									</ul>
+								</div>
+							</div>
+						</section>
+						<section>
+							<a href="" class="image"><img src="images/bab_nan.jpg" alt="" data-position="25% 25%" /></a>
+							<div class="content">
+								<div class="inner">
+									<h2>台南民宿</h2>
+									<p>由高雄市政府所提供的Open Data資料<br />欄位說明:名稱,地址,經營者,電話,Longitude,Latitude</p>
+									<ul class="actions">
+										<li><a href="bab_csvoutput.php?db=bab_nan" class="button">csv</a></li>
+										<li><a href="bab_jsonoutput.php?db=bab_nan" class="button">json</a></li>
+										
+									</ul>
+								</div>
+							</div>
+						</section>
+					</section>
+
+				<!-- Two -->
+					<section id="two" class="wrapper style3 fade-up">
+						<div class="inner">
+							<h2>停車資訊 </h2>
+							<p>這裡蒐集了高雄以及台南的停車資訊</p>
+							<div class="features">
+								<section>
+									<span class="icon major fa-code"></span>
+									<h3>台南公有免費停車場</h3>
+									<p>停車場型態、停車場代碼、停車場名稱、停車場地址、即時車位、大型車(一般)、小型車(一般)、小型車(身障)、小型車(婦幼)、小型車(綠能)、機車(一般)、機車(身障)、收費時間、收費費率、經緯度</p>
+									<ul class="actions">
+										<li><a href="parking_csvoutput.php?db=parking_nan_free" class="button">csv</a></li>
+										<li><a href="parking_jsonoutput.php?db=parking_nan_free" class="button">json</a></li>
+									</ul>
+								</section>
+								<section>
+									<span class="icon major fa-lock"></span>
+									<h3>台南公有收費停車場</h3>
+									<p>停車場型態、停車場代碼、停車場名稱、停車場地址、即時車位、大型車(一般)、小型車(一般)、小型車(身障)、小型車(婦幼)、小型車(綠能)、機車(一般)、機車(身障)、收費時間、收費費率、經緯度</p>
+									<ul class="actions">
+										<li><a href="parking_csvoutput.php?db=parking_nan_pay" class="button">csv</a></li>
+										<li><a href="parking_jsonoutput.php?db=parking_nan_pay" class="button">json</a></li>
+									</ul>
+								</section>
+								<section>
+									<span class="icon major fa-cog"></span>
+									<h3>高雄市公有路外停車場</h3>
+									<p>郵遞區號,行政區,型式,編號,停車場名稱,停車場位置,大型車,小型車,機車,腳踏車,收費標準(收費時間),營業時間,備 註</p>
+									<ul class="actions">
+										<li><a href="parking_csvoutput.php?db=parking_kao" class="button">csv</a></li>
+										<li><a href="parking_jsonoutput.php?db=parking_kao" class="button">json</a></li>
+									</ul>
+								</section>
+								<section>
+									<span class="icon major fa-desktop"></span>
+									<h3>停車場資訊  未完成</h3>
+									<p>郵遞區號,行政區,型式,編號,停車場名稱,停車場位置,大型車,小型車,機車,腳踏車,收費標準(收費時間),營業時間,備 註</p>
+									<ul class="actions">
+										<li><a href="" class="button">csv</a></li>
+										<li><a href="" class="button">json</a></li>
+									</ul>
+								</section>
+								<!-- <section>
+									<span class="icon major fa-chain"></span>
+									<h3>Urna quis bibendum</h3>
+									<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+								</section>
+								<section>
+									<span class="icon major fa-diamond"></span>
+									<h3>Aliquam urna dapibus</h3>
+									<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+								</section> -->
+							</div>
+							<ul class="actions">
+								<p>資料參考</p>
+								<li><a href="http://data.kaohsiung.gov.tw/Opendata/index.aspx" class="button">Kaohsiung</a></li>
+								<li><a href="http://data.tainan.gov.tw/" class="button">Tainan</a></li>
+							</ul>
+						</div>
+					</section>
+
+				<!-- Three -->
+					<section id="three" class="main style1 special">
+				<div class="container">
+					<header class="major">
+						<h2>景點Open Data</h2>
+					</header>
+					<p>收集了來自高雄以及台南的景點資訊</p>
+					<div class="row 150%">
+						<div class="4u 12u$(medium)">
+							<span class="image fit"><img src="images/kao.jpg" alt="" /></span>
+							<h3>高雄景點</h3>
+							<p>景點代碼,景點名稱,Zone,景點介紹,景點簡介,服務電話，國碼-區碼-電話號碼,景點地址,交通資訊,開放時間,照片連結網址1,照片說明1,Gov,X坐標(WGS84，至小數點第5位),Y坐標</p>
+							<ul class="actions">
+								<li><a href="view_csvoutput.php?db=view_kao" class="button">csv</a></li>
+								<li><a href="view_jsonoutput.php?db=view_kao" class="button">json</a></li>
+							</ul>
+						</div>
+						<div class="4u 12u$(medium)">
+							<span class="image fit"><img src="images/nan.jpg" alt="" /></span>
+							<h3>台南景點</h3>
+							<p>id,景點編號,景點中文名稱,景點特色詳細文字簡述,開放時間,景點之管理權責單位代碼,X坐標,Y坐標,景點分類代碼1,Changetime,地址,景點服務電話,停車資訊,主要停車場X坐標,主要停車場Y坐標,票價及相關價格資料,警告及注意事項,常用搜尋關鍵字</p>
+							<ul class="actions">
+								<li><a href="view_csvoutput.php?db=view_nan" class="button">csv</a></li>
+								<li><a href="view_jsonoutput.php?db=view_nan" class="button">json</a></li>
+							</ul>
+						</div>
+						<div class="4u$ 12u$(medium)">
+							<span class="image fit"><img src="images/vv.png" alt="" /></span>
+							<h3>景點資訊</h3>
+							<p>Id,Name,Told,Tel,Addr,Open,Px,Py,Ticket,<br />PS,site</p>
+							<ul class="actions">
+								<li><a href="view_csvoutput.php?db=view" class="button">csv</a></li>
+								<li><a href="view_jsonoutput.php?db=view" class="button">json</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			</div>
+
+		<!-- Footer -->
+			<!-- <footer id="footer" class="wrapper style1-alt">
+				<div class="inner">
+					<ul class="menu">
+						<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</div>
+			</footer> -->
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
